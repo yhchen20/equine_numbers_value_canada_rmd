@@ -34,7 +34,7 @@ and create this report can be found here:
 
 ## Results
 
-![](hist_horse_pop_files/figure-gfm/plot%20horses-1.png)<!-- -->
+![](hist_horse_pop_files/figure-gfm/plot horses-1.png)<!-- -->
 
 Figure 1. Number of horses per province in Canada
 
@@ -66,7 +66,7 @@ between 1940 - 1972
 
 Below we zoom in and look at the province of Alberta :
 
-![](hist_horse_pop_files/figure-gfm/plot%20province-1.png)<!-- -->
+![](hist_horse_pop_files/figure-gfm/plot province-1.png)<!-- -->
 
 Figure 2. The number of horse for Alberta between 1940 - 1972.
 
